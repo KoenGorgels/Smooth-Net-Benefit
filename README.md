@@ -4,7 +4,7 @@ Code accompanying the manuscript:
 
 **“Optimizing for the decision not the prediction: an exploration of Smooth Net Benefit as a training objective”**
 
-This repository contains the implementation and experiments for **Smooth Net Benefit (sNB)**, a differentiable approximation of Net Benefit designed for direct optimization of prediction models used for threshold-based decisions.
+This repository contains the implementation and experiments for **Smooth Net Benefit (σNB)**, a differentiable approximation of Net Benefit designed for direct optimization of prediction models used for threshold-based decisions.
 
 ## Repository structure
 
